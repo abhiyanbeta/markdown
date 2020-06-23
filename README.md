@@ -1,9 +1,10 @@
 
 # Markdown cheatsheet
 #### _For creating README.md files on github_
-This tutorial can be viewed as an [article](https://abhiyanbeta.github.io/blog/markdown-cheatsheet/index.html) on my blog. Download this README.md file to get the actual markdown syntax.
+A tutorial with explanations can be viewed as an [article](https://abhiyanbeta.github.io/blog/markdown-cheatsheet/index.html) on my blog. Download this README.md file to get the actual markdown syntax.
 
 Link to article:
+
 https://abhiyanbeta.github.io/blog/markdown-cheatsheet/index.html
 
 ***
